@@ -7,15 +7,21 @@ SITENAME = u'MLBlog'
 SITEURL = ''
 
 PATH = './content'
+OUTPUT_PATH = './output'
 
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+
+ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}/index.html'
 
 # Blogroll
 LINKS = None
@@ -24,6 +30,9 @@ LINKS = None
 PLUGIN_PATH = './plugins'
 PLUGINS = ['ipythonnb']
 MARKUP = ('md', 'ipynb')  # Enable ipython articles.
+
+# Themes
+THEME = 'themes/sundown'
 
 # Social widget
 SOCIAL = (('Twitter', 'http://www.twitter.com/gmadorell'),)
