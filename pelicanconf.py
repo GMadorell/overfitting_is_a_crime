@@ -32,7 +32,7 @@ PLUGINS = ['ipythonnb']
 MARKUP = ('md', 'ipynb')  # Enable ipython articles.
 
 # Themes
-THEME = 'pelican-elegant-1.3'
+THEME = 'elegant'
 
 # Social widget
 SOCIAL = (('Twitter', 'http://www.twitter.com/gmadorell'),)

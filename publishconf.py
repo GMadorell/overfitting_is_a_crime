@@ -12,7 +12,7 @@ from pelicanconf import *
 
 RELATIVE_URLS = False
 
-SITEURL = 'http://skabed.github.io/MLBlog'
+SITEURL = 'http://skabed.github.io/%s' % SITENAME 
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
