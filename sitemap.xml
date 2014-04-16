@@ -4,44 +4,30 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://skabed.github.io/MLBlog/index.html</loc>
-<lastmod>2014-03-29T20:55:46-00:00</lastmod>
+<loc>http://skabed.github.io/overfitting_is_a_crime/index.html</loc>
+<lastmod>2014-04-16T21:07:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://skabed.github.io/MLBlog/archives.html</loc>
-<lastmod>2014-03-29T20:55:46-00:00</lastmod>
+<loc>http://skabed.github.io/overfitting_is_a_crime/archives.html</loc>
+<lastmod>2014-04-16T21:07:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://skabed.github.io/MLBlog/tags.html</loc>
-<lastmod>2014-03-29T20:55:46-00:00</lastmod>
+<loc>http://skabed.github.io/overfitting_is_a_crime/tags.html</loc>
+<lastmod>2014-04-16T21:07:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://skabed.github.io/MLBlog/categories.html</loc>
-<lastmod>2014-03-29T20:55:46-00:00</lastmod>
+<loc>http://skabed.github.io/overfitting_is_a_crime/categories.html</loc>
+<lastmod>2014-04-16T21:07:01-00:00</lastmod>
 <changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://skabed.github.io/MLBlog/pages/my-super-post.html</loc>
-<lastmod>2010-12-03T10:20:00-00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://skabed.github.io/MLBlog/my-super-ipython.html</loc>
-<lastmod>2010-12-03T10:20:00-00:00</lastmod>
-<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
