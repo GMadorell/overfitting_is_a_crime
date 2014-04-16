@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Gerard Madorell'
-SITENAME = u'MLBlog'
+SITENAME = u'overfitting_is_a_crime'
 SITEURL = ''
 
 PATH = './content'
