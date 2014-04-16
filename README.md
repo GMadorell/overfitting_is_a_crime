@@ -1,4 +1,3 @@
-MLBlog
-======
+# overfitting\_is\_a\_crime
 
-MLBlog
+Source for my blog, which can be found at: www.http://skabed.github.io/overfitting_is_a_crime/
