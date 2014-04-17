@@ -11,7 +11,7 @@ The 2014 qualification round of this fantastic competition was held last week. I
 
 Google code jam is a competition in which programmers world wide participate against the clock in order to solve hard problems. It consists of a set of rounds, the first of which is the qualification one.
 
-The qualification round this years consisted of 4 different problems, with different difficulties. So, without further ado, let's solve them!
+The qualification round this year consisted of 4 different problems, with different difficulties. So, without further ado, let's solve them!
 
 (Btw, if you can't wait, you can always visit the github repo: https://github.com/Skabed/google-code-jam/tree/master/2014/qualification)
 
@@ -25,11 +25,11 @@ We are watching a magician doing a trick. It basically consists of:
 
 Our goal is basically to understand how the trick works, using an algorithm.
 
-We're given as input both grid distributions (after and before the first row is said) and also both rows in which the card is located.
+We're given as input both grid distributions (after and before the first row is said) and also the two rows in which the volunteer said the card is located.
 
-We need to say which card is the chosen one if there's only one possibility, "Bad magician!" if there's more than one card possibility or "Volunteer cheated" if no card is possible.
+We need to say which card is the chosen one if there's only one possibility, "Bad magician!" if there's more than one card possibility or "Volunteer cheated!" if no card is possible.
 
-This exercise was actually quite easy, we can simply count how many cards were in both rows, and use that number to find the answer directly.
+This exercise was actually quite easy. We can simply count how many cards were in both rows, and use that number to find the answer directly.
 
 I solved it using Python (all the file parsing is excluded):
 
@@ -101,7 +101,7 @@ The code for the solution comes below, with the strategy explained in the commen
 ## Minesweeper Master
 This one was the hardest challenge of this round by far! At the time of this writing, google code jam statistics show that only 45% of the people were able to get it right on the small input, which is quite a small percentage.
 
-I has quite a lot of trouble solving this one, and, even though my solution is not the most elegant one, I still managed to get it working, so everything is fine.
+I had quite a lot of trouble solving this one, and, even though my solution is not the most elegant one, I still managed to get it working, so everything is fine.
 
 In this problem we are given as input the number of rows, columns and mines that form a minesweeper grid configuration. Our job is to place the mines in such a way that we can win using only one click (remember that if you click in a cell that doesn't have any mines nearby it expands, recursively). If winning with one click isn't possible, we should say that.
 
@@ -146,9 +146,9 @@ The game consists of Naomi choosing a block, Ken choosing another one and then t
 
 This was the basic version of War. In this one, Ken will always choose it's lightest block if he can't win Naomi's weight and the block with an immediate heavier weight if he can win.
 
-On the second version of the game, called Deceitful War, Naomi knows all weights and can therefore trick Ken in order to win. He can't break the rules or she will be discovered though. For example, if she says that a block weights 0.5 and then Ken uses a block that weights 0.6 and loses, Naomi is discovered, which is something she needs to evade as well.
+On the second version of the game, called Deceitful War, Naomi knows all weights and can therefore trick Ken in order to win. She can't break the rules or she will be discovered though. For example, if she says that a block weights 0.5 and then Ken uses a block that weights 0.6 and loses, Naomi is discovered, which is something she needs to evade as well.
 
-Our goal is to calculate how many points will Naomi win in both versions of the game given the weights of the blocks of both players.
+Our goal is to calculate how many points will Naomi earn in both versions of the game given the weights of the blocks of both players.
 
 As always, I endorse my solution that has my solution explained in it:
 
