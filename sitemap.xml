@@ -5,36 +5,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://skabed.github.io/overfitting_is_a_crime/index.html</loc>
-<lastmod>2014-04-17T02:02:32-00:00</lastmod>
+<lastmod>2014-04-17T02:40:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://skabed.github.io/overfitting_is_a_crime/archives.html</loc>
-<lastmod>2014-04-17T02:02:32-00:00</lastmod>
+<lastmod>2014-04-17T02:40:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://skabed.github.io/overfitting_is_a_crime/tags.html</loc>
-<lastmod>2014-04-17T02:02:32-00:00</lastmod>
+<lastmod>2014-04-17T02:40:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://skabed.github.io/overfitting_is_a_crime/categories.html</loc>
-<lastmod>2014-04-17T02:02:32-00:00</lastmod>
+<lastmod>2014-04-17T02:40:59-00:00</lastmod>
 <changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://skabed.github.io/overfitting_is_a_crime/google-code-jam-2014-qualification.html</loc>
-<lastmod>2014-04-17T00:00:00-00:00</lastmod>
-<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
