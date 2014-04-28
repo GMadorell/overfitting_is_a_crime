@@ -13,7 +13,7 @@ Google code jam is a competition in which programmers world wide participate aga
 
 The qualification round this year consisted of 4 different problems, with different difficulties. So, without further ado, let's solve them!
 
-(Btw, if you can't wait, you can always visit the github repo: https://github.com/Skabed/google-code-jam/tree/master/2014/qualification)
+(Btw, if you can't wait, you can always visit the github repo: https://github.com/Skabed/programming-challenges/tree/master/google_code_jam/2014/qualification)
 
 ## Magic trick
 We are watching a magician doing a trick. It basically consists of:
@@ -134,7 +134,7 @@ The strategy I used was:
 * As our last chance, I tryed to fill the board by diagonals using grids of empty cells, starting from bot right moving to top left.
 * If that also fails, we assume that the instance is insolvable and thus we return "Impossible".
 
-You can always check the solution in code at: https://github.com/Skabed/google-code-jam/blob/master/2014/qualification/c_minesweeper_master/minesweeper_master.py
+You can always check the solution in code at: https://github.com/Skabed/programming-challenges/blob/master/google_code_jam/2014/qualification/c_minesweeper_master/minesweeper_master.py
 
 
 ## Deceitful War
