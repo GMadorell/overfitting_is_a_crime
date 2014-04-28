@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>overfitting_is_a_crime</title><link href="http://skabed.github.io/overfitting_is_a_crime/" rel="alternate"></link><link href="http://skabed.github.io/overfitting_is_a_crime/feeds/programming.atom.xml" rel="self"></link><id>http://skabed.github.io/overfitting_is_a_crime/</id><updated>2014-04-17T00:00:00+02:00</updated><entry><title>Google Code Jam 2014 - Qualification Round</title><link href="http://skabed.github.io/overfitting_is_a_crime/google-code-jam-2014-qualification.html" rel="alternate"></link><updated>2014-04-17T00:00:00+02:00</updated><author><name>Gerard Madorell</name></author><id>tag:skabed.github.io/overfitting_is_a_crime,2014-04-17:google-code-jam-2014-qualification.html</id><summary type="html">&lt;p&gt;The 2014 qualification round of this fantastic competition was held last week. I didn't have much time to do it at the "oficial" time, so I decided to give it a shot during my free time this week.&lt;/p&gt;
 &lt;p&gt;Google code jam is a competition in which programmers world wide participate against the clock in order to solve hard problems. It consists of a set of rounds, the first of which is the qualification one.&lt;/p&gt;
 &lt;p&gt;The qualification round this year consisted of 4 different problems, with different difficulties. So, without further ado, let's solve them!&lt;/p&gt;
-&lt;p&gt;(Btw, if you can't wait, you can always visit the github repo: https://github.com/Skabed/google-code-jam/tree/master/2014/qualification)&lt;/p&gt;
+&lt;p&gt;(Btw, if you can't wait, you can always visit the github repo: https://github.com/Skabed/programming-challenges/tree/master/google_code_jam/2014/qualification)&lt;/p&gt;
 &lt;h2 id="magic-trick"&gt;Magic trick&lt;/h2&gt;
 &lt;p&gt;We are watching a magician doing a trick. It basically consists of:&lt;/p&gt;
 &lt;ol&gt;
@@ -160,7 +160,7 @@
 &lt;li&gt;As our last chance, I tryed to fill the board by diagonals using grids of empty cells, starting from bot right moving to top left.&lt;/li&gt;
 &lt;li&gt;If that also fails, we assume that the instance is insolvable and thus we return "Impossible".&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;You can always check the solution in code at: https://github.com/Skabed/google-code-jam/blob/master/2014/qualification/c_minesweeper_master/minesweeper_master.py&lt;/p&gt;
+&lt;p&gt;You can always check the solution in code at: https://github.com/Skabed/programming-challenges/blob/master/google_code_jam/2014/qualification/c_minesweeper_master/minesweeper_master.py&lt;/p&gt;
 &lt;h2 id="deceitful-war"&gt;Deceitful War&lt;/h2&gt;
 &lt;p&gt;In this problem we are faced with an interesting situation. Two friends, Ken and Naomi play a game called War.&lt;/p&gt;
 &lt;p&gt;In this game, they're both given N identical-looking blocks, each of them of different weights. They know their own weights but not the wights of the opponent.&lt;/p&gt;
